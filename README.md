@@ -41,4 +41,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ## Contact Information
 
 _Adrian Camacho: adriancamacho18@gmail.com_
+
+---
 _Shoshana Newman: sho.newman@gmail.com_
